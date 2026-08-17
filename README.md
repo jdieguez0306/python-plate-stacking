@@ -75,11 +75,3 @@ python-plate-stack-simulator/
 ```bash
 python main.py
 ```
-
-## Future Improvements
-
-- Encapsulate stack behavior in a `PlateStack` class
-- Add automated unit tests
-- Persist the stack between sessions
-- Add undo support
-- Add a graphical visualization of the stack
